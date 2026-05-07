@@ -1,0 +1,44 @@
+[
+    {
+        "nome": "admin",
+        "email": "admin",
+        "senha": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "nivel": "Administrador",
+        "bases_acesso": [
+            "BVP - FILIAL 02",
+            "SORRISO - FILIAL 03",
+            "ESCRITORIO - FILIAL 05"
+        ],
+        "criado_em": "30/04/2026 13:48"
+    },
+    {
+        "nome": "BEATRIZ PEREIRA",
+        "email": "BEATRIZPEREIRA@TMG.AGR.BR",
+        "nivel": "Usuário",
+        "bases_acesso": [
+            "SORRISO - FILIAL 03"
+        ],
+        "senha": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+        "criado_em": "30/04/2026 13:54"
+    },
+    {
+        "nome": "PAULO ARAUJO",
+        "email": "pauloaraujo@tmg.agr.br",
+        "nivel": "Usuário",
+        "bases_acesso": [
+            "BVP - FILIAL 02"
+        ],
+        "senha": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+        "criado_em": "30/04/2026 14:52"
+    },
+    {
+        "nome": "ELIR JOSE",
+        "email": "elirjose@tmg.agr.br",
+        "nivel": "Usuário",
+        "bases_acesso": [
+            "ESCRITORIO - FILIAL 05"
+        ],
+        "senha": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5",
+        "criado_em": "30/04/2026 14:54"
+    }
+]
